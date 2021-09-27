@@ -14,3 +14,19 @@ body {
   font-family: "Comfortaa", cursive;
   font-family: "Roboto", sans-serif;
 }
+
+.first-article {
+  margin: 100px auto;
+  padding: 10px;
+  text-align: center;
+  width: 75%;
+  border: 10px solid white;
+  border-radius: 50px;
+}
+
+.first-article-head {
+  color: white;
+  font-family: "Comfortaa", cursive;
+  font-size: 60px;
+}
+255,155,62
