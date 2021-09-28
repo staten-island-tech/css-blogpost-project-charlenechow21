@@ -14,19 +14,54 @@ body {
   font-family: "Comfortaa", cursive;
   font-family: "Roboto", sans-serif;
 }
-
 .first-article {
-  margin: 100px auto;
-  padding: 10px;
+  margin: 150px auto;
+  padding: 50px;
   text-align: center;
-  width: 75%;
+  width: 60%;
   border: 10px solid white;
   border-radius: 50px;
-}
-
-.first-article-head {
   color: white;
+}
+.first-article-head {
   font-family: "Comfortaa", cursive;
   font-size: 60px;
 }
-255,155,62
+.starfruit {
+  align: center;
+  width: 600px;
+}
+.second-article {
+  margin: 150px auto;
+  padding: 50px;
+  text-align: center;
+  width: 60%;
+  border: 10px solid white;
+  border-radius: 50px;
+  color: white;
+}
+.second-article-head {
+  font-family: "Comfortaa", cursive;
+  font-size: 60px;
+}
+.dragonfruit {
+  align: center;
+  width: 600px;
+}
+.third-article {
+  margin: 150px auto;
+  padding: 50px;
+  text-align: center;
+  width: 60%;
+  border: 10px solid white;
+  border-radius: 50px;
+  color: white;
+}
+.third-article-head {
+  font-family: "Comfortaa", cursive;
+  font-size: 60px;
+}
+.passionfruit {
+  align: center;
+  width: 600px;
+}
