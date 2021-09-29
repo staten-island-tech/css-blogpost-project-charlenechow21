@@ -14,8 +14,16 @@ body {
   font-family: "Comfortaa", cursive;
   font-family: "Roboto", sans-serif;
 }
+.header {
+  margin: 100px auto;
+  text-align: center;
+  width: 90%;
+  color: white;
+  font-family: "Comfortaa", cursive;
+  font-size: 110px;
+}
 .first-article {
-  margin: 150px auto;
+  margin: 100px auto;
   padding: 50px;
   text-align: center;
   width: 60%;
