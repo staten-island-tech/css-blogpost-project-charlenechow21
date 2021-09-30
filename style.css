@@ -15,15 +15,15 @@ body {
   font-family: "Roboto", sans-serif;
 }
 .header {
-  margin: 100px auto;
+  margin: 150px auto;
   text-align: center;
   width: 90%;
   color: white;
   font-family: "Comfortaa", cursive;
   font-size: 110px;
 }
-.first-article {
-  margin: 100px auto;
+.article {
+  margin: 150px auto;
   padding: 50px;
   text-align: center;
   width: 60%;
@@ -39,15 +39,6 @@ body {
   align: center;
   width: 600px;
 }
-.second-article {
-  margin: 150px auto;
-  padding: 50px;
-  text-align: center;
-  width: 60%;
-  border: 10px solid white;
-  border-radius: 50px;
-  color: white;
-}
 .second-article-head {
   font-family: "Comfortaa", cursive;
   font-size: 60px;
@@ -55,15 +46,6 @@ body {
 .dragonfruit {
   align: center;
   width: 600px;
-}
-.third-article {
-  margin: 150px auto;
-  padding: 50px;
-  text-align: center;
-  width: 60%;
-  border: 10px solid white;
-  border-radius: 50px;
-  color: white;
 }
 .third-article-head {
   font-family: "Comfortaa", cursive;
